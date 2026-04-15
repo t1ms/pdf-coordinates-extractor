@@ -1,0 +1,6 @@
+{
+  "name": "PDF ROI Coordinator",
+  "description": "Extract pixel coordinates from PDF regions at 300 DPI for OCR and automation workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
